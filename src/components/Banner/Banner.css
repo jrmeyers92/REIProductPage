@@ -1,5 +1,10 @@
 .banner {
 	background-color: black;
 	color: #fff;
-	height: 144px;
+
+	padding: 25px 144px 30px;
+}
+.rei-logo {
+	height: 100px;
+	width: 100px;
 }

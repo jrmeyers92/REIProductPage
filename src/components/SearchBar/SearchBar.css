@@ -1,0 +1,10 @@
+.searchbar-input {
+	background-color: #555555;
+	color: white;
+	cursor: text;
+	font-size: 18px;
+	font-weight: 400;
+	padding: 12px 20px;
+	width: 397px;
+	display: block;
+}
