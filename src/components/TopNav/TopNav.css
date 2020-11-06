@@ -1,0 +1,32 @@
+.top-nav {
+	height: 40px;
+	background-color: #2a2a2a;
+	width: 100vw;
+}
+
+.nav {
+	max-width: 1200px;
+	padding: 0 30px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 60px;
+	text-align: left;
+}
+
+.nav__list {
+	display: flex;
+	flex-direction: row;
+	color: rgb(204, 204, 204);
+	text-align: left;
+}
+
+.nav__item {
+	list-style-type: none;
+	font-size: 14px;
+	line-height: 20px;
+	letter-spacing: 0.16px;
+	padding: 11px 8px 8px 8px;
+	text-transform: uppercase;
+	text-align: center;
+	cursor: pointer;
+}
