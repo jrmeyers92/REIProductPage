@@ -1,6 +1,8 @@
 .banner {
 	background-color: black;
 	color: #fff;
+	display: flex;
+	flex-direction: row;
 
 	padding: 25px 144px 30px;
 }

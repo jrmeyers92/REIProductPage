@@ -3,12 +3,15 @@ import "./SearchBar.css";
 
 const SearchBar = () => {
 	return (
-		<div>
+		<div className='searchbar'>
 			<input
 				type='search'
 				maxLength='70'
-				placeholder='search for great gear & clothing'
+				placeholder='Search for great gear & clothing'
 				className='searchbar-input'></input>
+			<button className='searchbar-button'>
+				<i class='fas fa-search'></i>
+			</button>
 		</div>
 	);
 };

@@ -7,7 +7,9 @@ const Banner = () => {
 	return (
 		<div className='banner'>
 			<REILogo />
-			<SearchBar />
+			<div className='banner-horz'>
+				<SearchBar />
+			</div>
 		</div>
 	);
 };

@@ -1,3 +1,8 @@
+.searchbar {
+	display: flex;
+	height: 45px;
+}
+
 .searchbar-input {
 	background-color: #555555;
 	color: white;
@@ -7,4 +12,22 @@
 	padding: 12px 20px;
 	width: 397px;
 	display: block;
+	margin-left: 30px;
+	border-color: rgb(85, 85, 85);
+}
+
+.searchbar-input::placeholder {
+	color: white;
+	font-weight: 100;
+}
+
+.searchbar-button {
+	background-color: #555555;
+	color: rgb(151, 201, 0);
+	font-weight: 400;
+	font-size: 16px;
+	border: none;
+	width: 40px;
+	height: 45px;
+	border-top: 2px solid black;
 }
