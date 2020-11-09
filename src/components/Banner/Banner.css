@@ -3,10 +3,19 @@
 	color: #fff;
 	display: flex;
 	flex-direction: row;
-
 	padding: 25px 144px 30px;
 }
 .rei-logo {
 	height: 100px;
 	width: 100px;
+}
+
+.banner-vert {
+	display: flex;
+	flex-direction: column;
+}
+
+.banner-horz {
+	display: flex;
+	justify-content: space-between;
 }

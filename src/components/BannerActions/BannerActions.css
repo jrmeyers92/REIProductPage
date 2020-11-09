@@ -1,0 +1,16 @@
+.banneractions {
+	padding-left: 180px;
+	margin-top: 15px;
+}
+
+.banneractions-item {
+	font-size: 16px;
+	font-weight: 500;
+	padding: 10px;
+	cursor: pointer;
+}
+
+.fas,
+.far {
+	margin-left: 5px;
+}
