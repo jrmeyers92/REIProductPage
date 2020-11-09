@@ -19,7 +19,9 @@ const BannerNav = () => {
 				<li className='bannernav-item'>Kids</li>
 				<li className='bannernav-item'>Deals</li>
 				<li className='bannernav-item'>More</li>
-				<li className='bannernav-item'>REI OUTLET</li>
+				<li className='bannernav-item outlet'>
+					REI OUTLET <i class='fas fa-angle-right'></i>
+				</li>
 			</ul>
 		</div>
 	);

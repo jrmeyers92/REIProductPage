@@ -6,7 +6,7 @@ const TopNav = () => {
 		<div className='top-nav'>
 			<nav className='nav'>
 				<ul className='nav__list'>
-					<li className='nav__item'>Shop REI</li>
+					<li className='nav__item picked'>Shop REI</li>
 					<li className='nav__item'>REI Outlet</li>
 					<li className='nav__item'>Used Gear</li>
 					<li className='nav__item'>REI Adventures</li>

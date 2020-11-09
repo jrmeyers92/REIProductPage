@@ -14,6 +14,7 @@ const Banner = () => {
 					<SearchBar />
 					<BannerActions />
 				</div>
+				<hr></hr>
 				<BannerNav />
 			</div>
 		</div>

@@ -12,5 +12,9 @@
 
 .fas,
 .far {
-	margin-left: 5px;
+	margin-left: 3px;
+}
+
+.banneractions-item:hover {
+	color: rgb(151, 201, 0);
 }

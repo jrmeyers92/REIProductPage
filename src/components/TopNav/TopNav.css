@@ -31,3 +31,7 @@
 	cursor: pointer;
 	font-weight: 100;
 }
+
+.picked {
+	border-bottom: 1px solid white;
+}

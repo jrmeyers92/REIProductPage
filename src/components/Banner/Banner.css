@@ -13,9 +13,14 @@
 .banner-vert {
 	display: flex;
 	flex-direction: column;
+	justify-content: space-between;
 }
 
 .banner-horz {
 	display: flex;
 	justify-content: space-between;
+}
+
+hr {
+	margin-left: 20px;
 }
